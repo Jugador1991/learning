@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        phpinfo();// master
+        phpinfo();// masterfgsdf sdf
         echo  'fff';  
         ?>
     </body>
